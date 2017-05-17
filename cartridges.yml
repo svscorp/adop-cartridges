@@ -1,0 +1,21 @@
+adop-cartridge-java:
+  name: "ADOP Java Cartridge"
+  url: "https://github.com/Accenture/adop-cartridge-java.git"
+adop-cartridge-cartridge-dev:
+  name: "ADOP Cartridge Development"
+  url: "https://github.com/Accenture/adop-cartridge-cartridge-dev.git"
+adop-cartridge-chef:
+  name: "ADOP Chef Cartridge"
+  url: "https://github.com/Accenture/adop-cartridge-chef.git"
+adop-cartridge-docker:
+  name: "ADOP Docker Cartridge"
+  url: "https://github.com/Accenture/adop-cartridge-docker.git"
+adop-cartridge-aspnet-linux:
+  name: "ADOP ASP.NET Linux Cartridge"
+  url: "https://github.com/kramos/adop-cartridge-aspnet-linux.git"
+adop-cartridge-flyway:
+  name: "ADOP Flyway Cartridge"
+  url: "https://github.com/kramos/adop-cartridge-flyway.git"
+adop-cartridge-ansible-101:
+  name: "ADOP Ansible Cartridge"
+  url: "https://github.com/kramos/adop-cartridge-ansible-101.git"
